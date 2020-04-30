@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: 2a5fe1f0d2744c948b9c81386364a056
+timeCreated: 1507446205
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sheeto_0
+    21300002: Sheeto_1
+    21300004: Sheeto_2
+    21300006: Sheeto_3
+    21300008: Sheeto_4
+    21300010: Sheeto_5
+    21300012: Sheeto_6
+    21300014: Sheeto_7
+    21300016: Sheeto_8
+    21300018: Sheeto_9
+    21300020: Sheeto_10
+    21300022: Sheeto_11
+    21300024: Sheeto_12
+    21300026: Sheeto_13
+    21300028: Sheeto_14
+    21300030: Sheeto_15
+    21300032: Sheeto_16
+    21300034: Sheeto_17
+    21300036: Sheeto_18
+    21300038: Sheeto_19
+    21300040: Sheeto_20
+    21300042: Sheeto_21
+    21300044: Sheeto_22
+    21300046: Sheeto_23
+    21300048: Sheeto_24
+    21300050: Sheeto_25
+    21300052: Sheeto_26
+    21300054: Sheeto_27
+    21300056: Sheeto_28
+    21300058: Sheeto_29
+    21300060: Sheeto_30
+    21300062: Sheeto_31
+    21300064: Sheeto_32
+    21300066: Sheeto_33
+    21300068: Sheeto_34
+    21300070: Sheeto_35
+    21300072: Sheeto_38
+    21300074: Sheeto_40
+    21300076: Sheeto_44
+    21300078: Sheeto_46
+    21300080: Sheeto_48
+    21300082: Sheeto_56
+    21300084: Sheeto_57
+    21300086: Sheeto_58
+    21300088: Sheeto_74
+    21300090: Sheeto_75
+    21300092: Sheeto_77
+    21300094: Sheeto_78
+    21300096: Sheeto_85
+    21300098: Sheeto_86
+    21300100: Sheeto_88
+    21300102: Sheeto_92
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sheeto_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 4598
+        width: 517
+        height: 718
+      alignment: 9
+      pivot: {x: 0.58981276, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 4598
+        width: 526
+        height: 684
+      alignment: 9
+      pivot: {x: 0.5956323, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_2
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 4598
+        width: 534
+        height: 708
+      alignment: 9
+      pivot: {x: 0.59, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_3
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 4598
+        width: 517
+        height: 756
+      alignment: 9
+      pivot: {x: 0.5898128, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_4
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 4596
+        width: 478
+        height: 734
+      alignment: 9
+      pivot: {x: 0.5898128, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_5
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 4596
+        width: 517
+        height: 696
+      alignment: 9
+      pivot: {x: 0.5956323, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_6
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 4598
+        width: 535
+        height: 708
+      alignment: 9
+      pivot: {x: 0.59, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_7
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 4598
+        width: 521
+        height: 755
+      alignment: 9
+      pivot: {x: 0.5898128, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_8
+      rect:
+        serializedVersion: 2
+        x: 4931
+        y: 4575
+        width: 323
+        height: 793
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_9
+      rect:
+        serializedVersion: 2
+        x: 5316
+        y: 4575
+        width: 320
+        height: 798
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_10
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 4575
+        width: 325
+        height: 822
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_11
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 4575
+        width: 320
+        height: 846
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_12
+      rect:
+        serializedVersion: 2
+        x: 6469
+        y: 4575
+        width: 320
+        height: 858
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_13
+      rect:
+        serializedVersion: 2
+        x: 6851
+        y: 4575
+        width: 325
+        height: 858
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_14
+      rect:
+        serializedVersion: 2
+        x: 7239
+        y: 4575
+        width: 320
+        height: 858
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_15
+      rect:
+        serializedVersion: 2
+        x: 7621
+        y: 4575
+        width: 321
+        height: 858
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_16
+      rect:
+        serializedVersion: 2
+        x: 8004
+        y: 4575
+        width: 325
+        height: 858
+      alignment: 9
+      pivot: {x: 0.5, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3656
+        width: 549
+        height: 550
+      alignment: 9
+      pivot: {x: 0.24, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_18
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 3656
+        width: 625
+        height: 641
+      alignment: 9
+      pivot: {x: 0.38050264, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3656
+        width: 549
+        height: 746
+      alignment: 9
+      pivot: {x: 0.65, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_20
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 3656
+        width: 593
+        height: 746
+      alignment: 9
+      pivot: {x: 0.65, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_21
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 3604
+        width: 364
+        height: 865
+      alignment: 9
+      pivot: {x: 0.58, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_22
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 3604
+        width: 463
+        height: 831
+      alignment: 9
+      pivot: {x: 0.67, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_23
+      rect:
+        serializedVersion: 2
+        x: 3738
+        y: 3604
+        width: 1080
+        height: 841
+      alignment: 9
+      pivot: {x: 0.43372756, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_24
+      rect:
+        serializedVersion: 2
+        x: 4929
+        y: 3604
+        width: 1119
+        height: 851
+      alignment: 9
+      pivot: {x: 0.214, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_25
+      rect:
+        serializedVersion: 2
+        x: 6158
+        y: 3604
+        width: 841
+        height: 841
+      alignment: 9
+      pivot: {x: 0.48, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_26
+      rect:
+        serializedVersion: 2
+        x: 7111
+        y: 3604
+        width: 438
+        height: 831
+      alignment: 9
+      pivot: {x: 0.65, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2901
+        width: 548
+        height: 463
+      alignment: 9
+      pivot: {x: 0.24, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_28
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2901
+        width: 813
+        height: 425
+      alignment: 9
+      pivot: {x: 0.24, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_29
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 2901
+        width: 770
+        height: 526
+      alignment: 9
+      pivot: {x: 0.18, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_30
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 2901
+        width: 928
+        height: 478
+      alignment: 9
+      pivot: {x: 0.28, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_31
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 2911
+        width: 1036
+        height: 420
+      alignment: 9
+      pivot: {x: 0.34, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_32
+      rect:
+        serializedVersion: 2
+        x: 4450
+        y: 2901
+        width: 1052
+        height: 392
+      alignment: 9
+      pivot: {x: 0.32, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_33
+      rect:
+        serializedVersion: 2
+        x: 5574
+        y: 2905
+        width: 1052
+        height: 402
+      alignment: 9
+      pivot: {x: 0.34, y: 0.043276053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_34
+      rect:
+        serializedVersion: 2
+        x: 6693
+        y: 2901
+        width: 1033
+        height: 391
+      alignment: 9
+      pivot: {x: 0.32, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_35
+      rect:
+        serializedVersion: 2
+        x: 7794
+        y: 2901
+        width: 1055
+        height: 392
+      alignment: 9
+      pivot: {x: 0.34, y: 0.02}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_38
+      rect:
+        serializedVersion: 2
+        x: 2762
+        y: 1700
+        width: 1345
+        height: 1013
+      alignment: 9
+      pivot: {x: 0.44397217, y: 0.13123325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_40
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 1526
+        width: 1429
+        height: 1243
+      alignment: 9
+      pivot: {x: 0.38772675, y: 0.25178236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1601
+        width: 1118
+        height: 1161
+      alignment: 9
+      pivot: {x: 0.5, y: 0.18235464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_46
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1547
+        width: 1184
+        height: 1135
+      alignment: 9
+      pivot: {x: 0.43745908, y: 0.23359989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_48
+      rect:
+        serializedVersion: 2
+        x: 5895
+        y: 1571
+        width: 1074
+        height: 1233
+      alignment: 9
+      pivot: {x: 0.53447294, y: 0.21473683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_56
+      rect:
+        serializedVersion: 2
+        x: 7449
+        y: 1791
+        width: 635
+        height: 430
+      alignment: 9
+      pivot: {x: 0.48056486, y: 0.098187685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_57
+      rect:
+        serializedVersion: 2
+        x: 8257
+        y: 1791
+        width: 632
+        height: 430
+      alignment: 9
+      pivot: {x: 0.4805649, y: 0.09818769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_58
+      rect:
+        serializedVersion: 2
+        x: 9066
+        y: 1791
+        width: 631
+        height: 430
+      alignment: 9
+      pivot: {x: 0.4805649, y: 0.09818769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_74
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 562
+        width: 465
+        height: 545
+      alignment: 9
+      pivot: {x: 0.57962185, y: 0.047104917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_75
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 505
+        width: 583
+        height: 655
+      alignment: 9
+      pivot: {x: 0.58467513, y: 0.07605931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_77
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 404
+        width: 988
+        height: 943
+      alignment: 9
+      pivot: {x: 0.5936845, y: 0.21207814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_78
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 152
+        width: 1453
+        height: 1292
+      alignment: 9
+      pivot: {x: 0.49575317, y: 0.27552435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_85
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 0
+        width: 2590
+        height: 1450
+      alignment: 9
+      pivot: {x: 0.55718017, y: 0.270195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_86
+      rect:
+        serializedVersion: 2
+        x: 7306
+        y: 332
+        width: 674
+        height: 732
+      alignment: 9
+      pivot: {x: 0.5, y: 0.036355067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_88
+      rect:
+        serializedVersion: 2
+        x: 9051
+        y: 347
+        width: 727
+        height: 754
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03635507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheeto_92
+      rect:
+        serializedVersion: 2
+        x: 8176
+        y: 332
+        width: 674
+        height: 744
+      alignment: 9
+      pivot: {x: 0.5, y: 0.03635507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

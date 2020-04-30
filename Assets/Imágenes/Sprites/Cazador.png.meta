@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: 96830625ec9114c4da6fe8a971138a80
+timeCreated: 1506928856
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cazador_1
+    21300002: Cazador_2
+    21300004: Cazador_3
+    21300006: Cazador_4
+    21300008: Cazador_5
+    21300010: Cazador_6
+    21300012: Cazador_7
+    21300014: Cazador_8
+    21300016: Cazador_9
+    21300018: Cazador_10
+    21300020: Cazador_11
+    21300022: Cazador_12
+    21300024: Cazador_13
+    21300026: Cazador_14
+    21300028: Cazador_15
+    21300030: Cazador_16
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cazador_1
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 753
+        width: 641
+        height: 571
+      alignment: 9
+      pivot: {x: 0.39980513, y: 0.08222483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_2
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 766
+        width: 689
+        height: 655
+      alignment: 9
+      pivot: {x: 0.22035623, y: 0.06576412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_3
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 837
+        width: 891
+        height: 969
+      alignment: 9
+      pivot: {x: 0.093252674, y: 0.036043055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_4
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 1087
+        width: 668
+        height: 692
+      alignment: 9
+      pivot: {x: 0.23903488, y: 0.055835348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_5
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 977
+        width: 462
+        height: 836
+      alignment: 9
+      pivot: {x: 0.5397183, y: 0.06100566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_6
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 849
+        width: 554
+        height: 779
+      alignment: 9
+      pivot: {x: 0.80638504, y: 0.05832861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_7
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 753
+        width: 639
+        height: 571
+      alignment: 9
+      pivot: {x: 0.3998051, y: 0.08222483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 28
+        width: 843
+        height: 548
+      alignment: 9
+      pivot: {x: 0.3204185, y: 0.064690426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_9
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 15
+        width: 385
+        height: 719
+      alignment: 9
+      pivot: {x: 0.52383095, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_10
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 23
+        width: 377
+        height: 703
+      alignment: 9
+      pivot: {x: 0.451326, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_11
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 15
+        width: 339
+        height: 719
+      alignment: 9
+      pivot: {x: 0.41880488, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_12
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 0
+        width: 369
+        height: 750
+      alignment: 9
+      pivot: {x: 0.48756802, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_13
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 18
+        width: 382
+        height: 713
+      alignment: 9
+      pivot: {x: 0.523831, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_14
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 23
+        width: 368
+        height: 703
+      alignment: 9
+      pivot: {x: 0.451326, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_15
+      rect:
+        serializedVersion: 2
+        x: 3672
+        y: 15
+        width: 337
+        height: 719
+      alignment: 9
+      pivot: {x: 0.4188049, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cazador_16
+      rect:
+        serializedVersion: 2
+        x: 4074
+        y: 0
+        width: 369
+        height: 753
+      alignment: 9
+      pivot: {x: 0.487568, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
